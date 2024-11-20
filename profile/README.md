@@ -9,7 +9,7 @@
 ### Our Services :
 - DJ APPSTORE
 
-<div align="center" style="display: inline-block; padding: 10px; border: 2px solid #7289DA; border-radius: 5px; background-color: #7289DA;">
+<div align="center" style="padding: 10px; border: 2px solid #7289DA; border-radius: 5px; background-color: #7289DA;">
     <a href="https://discord.com" style="text-decoration: none; color: #FFFFFF; font-size: 16px; font-weight: bold; display: flex; align-items: center;">
         <img src="https://img.icons8.com/color/48/discord-logo.png" alt="Discord" style="height: 24px; margin-right: 8px;"/> DISCORD
     </a>
