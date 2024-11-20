@@ -10,7 +10,7 @@
 
 |    Services    |  Status  |
 |----------------|----------|
-| DJ APPSTORE    | Online &#x1F7E2 |
+| DJ APPSTORE    | Online &x7E2 |
 
 
 
