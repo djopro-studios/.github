@@ -17,7 +17,7 @@
 <a href="https://discord.com" style="text-decoration: none; color: #FFFFFF; font-size: 16px; font-weight: bold; display: flex; align-items: center;">
 <img src="https://img.icons8.com/?size=48&id=65072&format=png" alt="Discord" style="height: 36px; margin: 10px;"/></a>
 </div>
-<div align="center"><sup>Contact Us</sup></div>
+<div align="center"><p style="text-size:10px">Contact Us</p></div>
 <!--
 
 **Here are some ideas to get you started:**
