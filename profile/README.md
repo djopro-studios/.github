@@ -10,15 +10,16 @@
 
 |    Services    |  Status  |
 |----------------|----------|
-| DJ APPSTORE    | 🟢 Online |
+| (DJ APPSTORE)[https://github.com/djopro-studios/DJ-APPSTORE]    | 🟢 Online |
 
-
+### Caution ⚠️:
+- Please respect our LICENSEs, COPYRIGHTs, EULAs or anything else attached to our politics.
 
 ---
 <div align="center">
-<a href="https://discord.com" style="text-decoration: none; color: #FFFFFF; font-size: 16px; font-weight: bold; display: flex; align-items: center;">
+<a href="https://discord.gg/3kMaFvk9VJ" style="text-decoration: none; color: #FFFFFF; font-size: 16px; font-weight: bold; display: flex; align-items: center;">
 <img src="https://img.icons8.com/?size=48&id=M725CLW4L7wE&format=png" alt="Discord" style="height: 36px; margin: 10px;"/></a>
-<a href="https://discord.com" style="text-decoration: none; color: #FFFFFF; font-size: 16px; font-weight: bold; display: flex; align-items: center;">
+<a href="https://djoprostudio.blogspot.com" style="text-decoration: none; color: #FFFFFF; font-size: 16px; font-weight: bold; display: flex; align-items: center;">
 <img src="https://img.icons8.com/?size=48&id=65072&format=png" alt="Discord" style="height: 36px; margin: 10px;"/></a>
 </div>
 <div align="center"><p>Contact Us</p></div>
