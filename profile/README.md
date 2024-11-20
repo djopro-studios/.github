@@ -13,7 +13,7 @@
 ---
 <div align="center">
 <a href="https://discord.com" style="text-decoration: none; color: #FFFFFF; font-size: 16px; font-weight: bold; display: flex; align-items: center;">
-<img src="https://img.icons8.com/color/48/discord-logo.png" alt="Discord" style="height: 36px; margin-right: 8px;"/></a>
+<img src="https://img.icons8.com/?size=80&id=CtBPALjW5AFQ&format=png" alt="Discord" style="height: 36px; margin-right: 8px;"/></a>
 <a href="https://discord.com" style="text-decoration: none; color: #FFFFFF; font-size: 16px; font-weight: bold; display: flex; align-items: center;">
 <img src="https://img.icons8.com/?size=48&id=65072&format=png" alt="Discord" style="height: 36px; margin-right: 8px;"/></a>
 </div>
