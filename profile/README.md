@@ -10,10 +10,10 @@
 - DJ APPSTORE
 
 <hr>
-<span align="center">
-<a align="center" href="https://discord.com" style="text-decoration: none; color: #FFFFFF; font-size: 16px; font-weight: bold; display: flex; align-items: center;">
+<div align="center">
+<a href="https://discord.com" style="text-decoration: none; color: #FFFFFF; font-size: 16px; font-weight: bold; display: flex; align-items: center;">
 <img src="https://img.icons8.com/color/48/discord-logo.png" alt="Discord" style="height: 24px; margin-right: 8px;"/></a>
-</span>
+</div>
 
 <!--
 
