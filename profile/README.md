@@ -10,7 +10,7 @@
 
 |    Services    |  Status  |
 |----------------|----------|
-| [DJ APPSTORE](https://github.com/djopro-studios/DJ-APPSTORE)    | 🔧 Maintenance |<!--🟢 Online |-->
+| [DJ APPSTORE](https://github.com/djopro-studios/DJ-APPSTORE)    | <!--🔧 Maintenance |-->🟢 Online |
 
 ### Caution ⚠️:
 - Please respect our LICENSEs, COPYRIGHTs, EULAs or anything else attached to our politics.
