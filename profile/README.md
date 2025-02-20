@@ -11,6 +11,8 @@
 |    Services    |  Status  |
 |----------------|----------|
 | [DJ APPSTORE](https://github.com/djopro-studios/DJ-APPSTORE)    |<!-- 🔧 Maintenance --> 🟢 Online |
+| [RoLampa (Alpha)](https://github.com/djopro-studio/RoLampa)    |<!-- 🔧 Maintenance --> 🟢 Online |
+
 
 ### Caution ⚠️:
 - Please respect our LICENSEs, COPYRIGHTs, EULAs or anything else attached to our politics.
