@@ -10,7 +10,7 @@
 
 |    Services    |  Status  |
 |----------------|----------|
-| [DJ APPSTORE](https://github.com/djopro-studios/DJ-APPSTORE)    |<!-- 🔧 Maintenance --> 🟢 Online |
+| [DJ APPSTORE](https://github.com/djopro-studios/DJ-APPSTORE)    |🔧 Maintenance<!-- 🟢 Online--> |
 | [RoLampa (Alpha)](https://github.com/djopro-studio/RoLampa)    |<!-- 🔧 Maintenance --> 🟢 Online |
 
 
